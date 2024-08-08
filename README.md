@@ -1,6 +1,8 @@
 # kaggle_startups_pred_bin_class
  kaggle competition on building classification model to predict probas of startup keeping work / closed
 
+### *TASK: Для каждого стартапа предскажите категориальное значение соответствующее прогнозу ['operating', 'closed'].*
+
 **Данные:**
 
 Датасет состоит из двух файлов: 
